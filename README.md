@@ -1,6 +1,6 @@
 # TO DO LIST AVANCED
 <img src="https://github.com/MatheusPereira033/To-Do-List-JS/blob/main/Apresenta%C3%A7%C3%A3o%20To%20do%20List.gif?raw=true" alt="Video GIF">
-<p>Nesse projeto o usuário tem a liberdade de utilizar uma lista de tarefas para anotar e adicionar suas tarefas novas, edita-las marcar como concluída. Também poderá realizar uma pesquisa da tarefa, aplicar filtros de busca e salvar as operações. O processo nunca se perde porque sempre vai ser salvo.</p>
+<p>Nesse projeto o usuário tem a liberdade de utilizar uma lista de tarefas para anotar e adicionar suas tarefas novas, edita-las e marcar como concluída. Também poderá realizar uma pesquisa da tarefa, aplicar filtros de busca e salvar as operações. O processo nunca se perde porque sempre vai ser salvo.</p>
 Verifique o Projeto: https://matheuspereira033.github.io/To-Do-List-JS/
 <br>
 <h2>:dart: Recursos</h2>
