@@ -1,5 +1,5 @@
 # TO DO LIST AVANCED
-<img src="https://raw.githubusercontent.com/MatheusPereira033/Formul-rio-de-Valida--o-em-JavaScript/main/Form%20com%20valida%C3%A7%C3%A3o%20JavaScript-gif.gif" alt="Video GIF">
+<img src="https://github.com/MatheusPereira033/To-Do-List-JS/blob/main/Apresenta%C3%A7%C3%A3o%20To%20do%20List.gif?raw=true" alt="Video GIF">
 <p>Nesse projeto o usuário tem a liberdade de utilizar uma lista de tarefas para anotar e adicionar suas tarefas novas, edita-las marcar como concluída. Também poderá realizar uma pesquisa da tarefa, aplicar filtros de busca e salvar as operações. O processo nunca se perde porque sempre vai ser salvo.</p>
 Verifique o Projeto: https://matheuspereira033.github.io/Formulario-Validacao-JavaScript/
 <br>
